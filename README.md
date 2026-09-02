@@ -1,5 +1,7 @@
 # ilastik-mask-creation-tutorial
 ## Software Instructions
+Download from here https://www.ilastik.org/download
+download the stable version. 
 
 Please follow the instructions in **`ilastic_Software_Guide.pdf`** to learn how to use the software and understand the complete workflow.
 
